@@ -1,2 +1,2 @@
 # pagina-pessoal
-First page using html/css
+First page using HTML/CSS
